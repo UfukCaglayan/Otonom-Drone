@@ -1,6 +1,7 @@
 # Otonom-Drone
-Simülasyon ortamının içinde belli bir alanda şekil ve renklerine göre rastgele yerleştirilmiş hedefleri kapsama yolu planlama algoritmalarıyla tarayarak yerlerinin tespit edilmesini sağladık. 
-Hedefler arasında geçişler yaparak belirtilen görevleri otonom olarak uygulatmış olduk.
+Projenin amacı, simülasyon ortamına yerleştirilen bir drone ile kapsama yolu planlama algoritmalarını kullanarak belirli alanları taramak ve hedeflerin tespit edilmesinden sonra görevler yaptırmaktır. Mavi geniş silindir mavi havuz temsili, kırmızı kısa geniş silindir suyun bırakılması gereken alan (yangın) temsilidir. Farklı renkte hedeflerinin olduğu bir alanda görüntü işleme yaparak çekildiği varsayılan suyun bırakma alanına getirilmesi sağlanmıştır.
+
+
 
 -Simülasyon ortamı:
 ![sim1](https://user-images.githubusercontent.com/22642119/179230042-5698b094-8af1-45fa-b374-e73db6ac06f8.png)
