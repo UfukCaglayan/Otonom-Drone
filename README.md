@@ -11,7 +11,7 @@ SITL simülatörünü çalıştırarak mavlink komutlarıyla Arducopter’in sim
 
 DroneKit kütüphanesi ve python kodları kullanılarak paralel tarama yöntemiyle alanın taranması sağlandı.
 
-![image](https://user-images.githubusercontent.com/22642119/179230472-8f2eb530-9fb7-4fcc-9fa3-ed2fc67dbdb1.png)
+![paralel](https://user-images.githubusercontent.com/22642119/179231357-1806e3e0-2e35-4c02-9324-1acdf2690d4e.png)
 
 Diğer bir tarama yöntemi olan spiral tarama yöntemiyle alanın taranması sağlandı.
 
