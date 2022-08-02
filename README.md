@@ -1,4 +1,6 @@
 # Otonom-Drone
+Bu depo Uludağ Üniversitesi Bitirme Projesi dersi için açılmıştır.
+
 Projenin amacı, simülasyon ortamına yerleştirilen bir drone ile kapsama yolu planlama algoritmalarını kullanarak belirli alanları taramak ve hedeflerin tespit edilmesinden sonra görevler yaptırmaktır. Mavi geniş silindir mavi havuz temsili, kırmızı kısa geniş silindir suyun bırakılması gereken alan (yangın) temsilidir. Farklı renkte hedeflerinin olduğu bir alanda görüntü işleme yaparak çekildiği varsayılan suyun bırakma alanına getirilmesi sağlanmıştır.
 
 
