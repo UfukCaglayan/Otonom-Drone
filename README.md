@@ -33,11 +33,11 @@ Alan tarama ve hedef tespiti adımlarından sonra mavi hedefin üstüne gelinere
 ![image](https://user-images.githubusercontent.com/22642119/179230629-a9722d6c-6ee7-4900-806d-7eab544bde04.png)
 
 Arducopter ortalama işlemini yaparken mavi hedefin üstünde 5 metreye kadar alçaldı. 
-Alçalma işlemi yapılırken ortalama işlemi de yapılmaya devam edilerek tam ortasına gelecek şekilde alçalması sağlandı.
+Alçalma işlemi yapılırken ortalama işlemi de yapılmaya devam edilerek Arducopter'in hedefin tam ortasına gelecek şekilde alçalması sağlandı.
 
 ![image](https://user-images.githubusercontent.com/22642119/179230681-8bb6e1a7-f8fb-4384-9b41-901214d57635.png)
 
-Benzer şekilde kırmızı hedefin üstüne aynı işlemler uygulandı.
+Benzer şekilde kırmızı hedefin üstünde aynı işlemler uygulandı.
 
 ![image](https://user-images.githubusercontent.com/22642119/179230706-6b20f089-f780-4345-bdbe-57a6903e832a.png)
 
